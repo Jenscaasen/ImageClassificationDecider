@@ -2,7 +2,9 @@
 
 Lightweight, fast and easy to use tool to divide images into 2 or more subfolders for image classification algorithms like deep learning.
 
-![image](https://user-images.githubusercontent.com/8245848/188464172-cad32c5c-ea25-42fc-8ecd-91daa3df793d.png)
+![image](https://user-images.githubusercontent.com/8245848/188465630-a40ca86c-726c-47eb-80fa-e734c46d6e14.png)
+
+![image](https://user-images.githubusercontent.com/8245848/188465488-8da56cb4-dd2e-46af-a301-397f1fc70f0b.png)
 
 How to use:
 1) download or compile a copy
